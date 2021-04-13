@@ -3,3 +3,5 @@
 "Объединение зафиксированных изменений"
 2 коммит
 Test after stash11
+Test after stash
+123
