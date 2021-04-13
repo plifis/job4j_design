@@ -9,7 +9,7 @@
 
   <groupId>ru.job4j</groupId>
   <artifactId>chapter_003</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>chapter_003</name>
   <description>A simple chapter_003.</description>
@@ -88,12 +88,4 @@
           </plugin>
       </plugins>
   </build>
-
-  <reporting>
-    <plugins>
-      <plugin>
-        <artifactId>maven-project-info-reports-plugin</artifactId>
-      </plugin>
-    </plugins>
-  </reporting>
 </project>
